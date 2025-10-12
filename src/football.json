@@ -1,0 +1,66 @@
+[
+    {
+      "name": "Lamine Yamal",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/25/Lamine_Yamal_2024.jpg",
+      "team": "FC Barcelona",
+      "position": "Right Winger",
+      "rating": 90
+    },
+    {
+      "name": "Kylian Mbappé",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Kylian_Mbapp%C3%A9_2022.jpg",
+      "team": "Real Madrid",
+      "position": "Forward",
+      "rating": 94
+    },
+    {
+      "name": "Erling Haaland",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Erling_Haaland_2023.jpg",
+      "team": "Manchester City",
+      "position": "Striker",
+      "rating": 93
+    },
+    {
+      "name": "Lionel Messi",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/89/Lionel_Messi_2022.jpg",
+      "team": "Inter Miami",
+      "position": "Forward",
+      "rating": 95
+    },
+    {
+      "name": "Cristiano Ronaldo",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Cristiano_Ronaldo_2022.jpg",
+      "team": "Al-Nassr",
+      "position": "Forward",
+      "rating": 92
+    },
+    {
+      "name": "Jude Bellingham",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/70/Jude_Bellingham_2023.jpg",
+      "team": "Real Madrid",
+      "position": "Midfielder",
+      "rating": 91
+    },
+    {
+      "name": "Kevin De Bruyne",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Kevin_De_Bruyne_2021.jpg",
+      "team": "Manchester City",
+      "position": "Midfielder",
+      "rating": 92
+    },
+    {
+      "name": "Vinícius Júnior",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Vinicius_Junior_2022.jpg",
+      "team": "Real Madrid",
+      "position": "Left Winger",
+      "rating": 91
+    },
+    {
+      "name": "Pedri",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Pedri_2023.jpg",
+      "team": "FC Barcelona",
+      "position": "Midfielder",
+      "rating": 89
+    }
+  ]
+  

@@ -1,0 +1,75 @@
+[
+    {
+      "name": "Camp Nou",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/18/Camp_Nou_panorama.jpg",
+      "location": "Barcelona, Spain",
+      "capacity": 99354,
+      "team": "FC Barcelona",
+      "opened": 1957
+    },
+    {
+      "name": "Santiago Bernabéu Stadium",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Santiago_Bernabeu_Stadium_2023.jpg",
+      "location": "Madrid, Spain",
+      "capacity": 81044,
+      "team": "Real Madrid",
+      "opened": 1947
+    },
+    {
+      "name": "Wembley Stadium",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/84/Wembley_Stadium_2017.jpg",
+      "location": "London, England",
+      "capacity": 90000,
+      "team": "England National Team",
+      "opened": 2007
+    },
+    {
+      "name": "Old Trafford",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Old_Trafford_inside_2019.jpg",
+      "location": "Manchester, England",
+      "capacity": 74310,
+      "team": "Manchester United",
+      "opened": 1910
+    },
+    {
+      "name": "Allianz Arena",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Allianz_Arena_Munich_2022.jpg",
+      "location": "Munich, Germany",
+      "capacity": 75000,
+      "team": "FC Bayern Munich",
+      "opened": 2005
+    },
+    {
+      "name": "San Siro (Giuseppe Meazza)",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/66/San_Siro_2023.jpg",
+      "location": "Milan, Italy",
+      "capacity": 80018,
+      "team": "AC Milan / Inter Milan",
+      "opened": 1926
+    },
+    {
+      "name": "Maracanã Stadium",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Maracana_Stadium_2022.jpg",
+      "location": "Rio de Janeiro, Brazil",
+      "capacity": 78838,
+      "team": "Brazil National Team",
+      "opened": 1950
+    },
+    {
+      "name": "Signal Iduna Park",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Signal_Iduna_Park_2022.jpg",
+      "location": "Dortmund, Germany",
+      "capacity": 81365,
+      "team": "Borussia Dortmund",
+      "opened": 1974
+    },
+    {
+      "name": "Lusail Stadium",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Lusail_Stadium_2022.jpg",
+      "location": "Lusail, Qatar",
+      "capacity": 88966,
+      "team": "Qatar National Team",
+      "opened": 2022
+    }
+  ]
+  
