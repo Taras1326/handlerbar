@@ -1,7 +1,7 @@
 [
     {
       "name": "Camp Nou",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/1/18/Camp_Nou_panorama.jpg",
+      "image": "https://www.fcbarcelona.com/photo-resources/2020/02/24/3f1215ed-07e8-47ef-b2c7-8a519f65b9cd/mini_UP3_20200105_FCB_VIS_View_1a_Empty.jpg?width=1200&height=750",
       "location": "Barcelona, Spain",
       "capacity": 99354,
       "team": "FC Barcelona",
@@ -9,7 +9,7 @@
     },
     {
       "name": "Santiago Bernabéu Stadium",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Santiago_Bernabeu_Stadium_2023.jpg",
+      "image": "https://www.barcelo.com/guia-turismo/wp-content/uploads/2019/03/santiago-bernabeu-1.jpg",
       "location": "Madrid, Spain",
       "capacity": 81044,
       "team": "Real Madrid",
@@ -17,7 +17,7 @@
     },
     {
       "name": "Wembley Stadium",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/8/84/Wembley_Stadium_2017.jpg",
+      "image": "https://sp-static-images.s3.amazonaws.com/Wembley_Stadium_interior_cdngjd/1200x630_auto/Wembley_Stadium_interior_cdngjd.jpg",
       "location": "London, England",
       "capacity": 90000,
       "team": "England National Team",
@@ -25,7 +25,7 @@
     },
     {
       "name": "Old Trafford",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Old_Trafford_inside_2019.jpg",
+      "image": "https://i2-prod.liverpoolecho.co.uk/incoming/article28946831.ece/ALTERNATES/s615/0_GettyImages-1842603391.jpg",
       "location": "Manchester, England",
       "capacity": 74310,
       "team": "Manchester United",
@@ -33,7 +33,7 @@
     },
     {
       "name": "Allianz Arena",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Allianz_Arena_Munich_2022.jpg",
+      "image": "https://img.fcbayern.com/image/upload/f_auto/q_auto/t_cms-1x1-seo/v1758483945/cms/public/images/allianz-arena/arena-aussenbilder/250918-allianz-arena-nacht-luftbild2_duc.jpg",
       "location": "Munich, Germany",
       "capacity": 75000,
       "team": "FC Bayern Munich",
@@ -41,7 +41,7 @@
     },
     {
       "name": "San Siro (Giuseppe Meazza)",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/6/66/San_Siro_2023.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Stadio_San_Siro_-_Giuseppe_Meazza.jpg",
       "location": "Milan, Italy",
       "capacity": 80018,
       "team": "AC Milan / Inter Milan",
@@ -49,7 +49,7 @@
     },
     {
       "name": "Maracanã Stadium",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Maracana_Stadium_2022.jpg",
+      "image": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-674x446/11/a9/50/48.jpg",
       "location": "Rio de Janeiro, Brazil",
       "capacity": 78838,
       "team": "Brazil National Team",
@@ -57,7 +57,7 @@
     },
     {
       "name": "Signal Iduna Park",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Signal_Iduna_Park_2022.jpg",
+      "image": "https://sportfive-prod-space-ovip-01.fra1.cdn.digitaloceanspaces.com/thumbnail/_default_upload_bucket/3924/image-thumb__3924__pictureText/Backgroundteaser3.90aca4c1.jpg",
       "location": "Dortmund, Germany",
       "capacity": 81365,
       "team": "Borussia Dortmund",
@@ -65,7 +65,7 @@
     },
     {
       "name": "Lusail Stadium",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Lusail_Stadium_2022.jpg",
+      "image": "https://populous.com/uploads/2022/10/GettyImages-1245700394-Do-not-use-after-31MAR2025-1200x675-c-center.jpg",
       "location": "Lusail, Qatar",
       "capacity": 88966,
       "team": "Qatar National Team",
