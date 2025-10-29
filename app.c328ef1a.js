@@ -120,63 +120,63 @@ parcelRequire = (function (modules, cache, entry, globalName) {
 })({"stadiums.json":[function(require,module,exports) {
 module.exports = [{
   "name": "Camp Nou",
-  "image": "https://upload.wikimedia.org/wikipedia/commons/1/18/Camp_Nou_panorama.jpg",
+  "image": "https://www.fcbarcelona.com/photo-resources/2020/02/24/3f1215ed-07e8-47ef-b2c7-8a519f65b9cd/mini_UP3_20200105_FCB_VIS_View_1a_Empty.jpg?width=1200&height=750",
   "location": "Barcelona, Spain",
   "capacity": 99354,
   "team": "FC Barcelona",
   "opened": 1957
 }, {
   "name": "Santiago Bernabéu Stadium",
-  "image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Santiago_Bernabeu_Stadium_2023.jpg",
+  "image": "https://www.barcelo.com/guia-turismo/wp-content/uploads/2019/03/santiago-bernabeu-1.jpg",
   "location": "Madrid, Spain",
   "capacity": 81044,
   "team": "Real Madrid",
   "opened": 1947
 }, {
   "name": "Wembley Stadium",
-  "image": "https://upload.wikimedia.org/wikipedia/commons/8/84/Wembley_Stadium_2017.jpg",
+  "image": "https://sp-static-images.s3.amazonaws.com/Wembley_Stadium_interior_cdngjd/1200x630_auto/Wembley_Stadium_interior_cdngjd.jpg",
   "location": "London, England",
   "capacity": 90000,
   "team": "England National Team",
   "opened": 2007
 }, {
   "name": "Old Trafford",
-  "image": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Old_Trafford_inside_2019.jpg",
+  "image": "https://i2-prod.liverpoolecho.co.uk/incoming/article28946831.ece/ALTERNATES/s615/0_GettyImages-1842603391.jpg",
   "location": "Manchester, England",
   "capacity": 74310,
   "team": "Manchester United",
   "opened": 1910
 }, {
   "name": "Allianz Arena",
-  "image": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Allianz_Arena_Munich_2022.jpg",
+  "image": "https://img.fcbayern.com/image/upload/f_auto/q_auto/t_cms-1x1-seo/v1758483945/cms/public/images/allianz-arena/arena-aussenbilder/250918-allianz-arena-nacht-luftbild2_duc.jpg",
   "location": "Munich, Germany",
   "capacity": 75000,
   "team": "FC Bayern Munich",
   "opened": 2005
 }, {
   "name": "San Siro (Giuseppe Meazza)",
-  "image": "https://upload.wikimedia.org/wikipedia/commons/6/66/San_Siro_2023.jpg",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Stadio_San_Siro_-_Giuseppe_Meazza.jpg",
   "location": "Milan, Italy",
   "capacity": 80018,
   "team": "AC Milan / Inter Milan",
   "opened": 1926
 }, {
   "name": "Maracanã Stadium",
-  "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Maracana_Stadium_2022.jpg",
+  "image": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-674x446/11/a9/50/48.jpg",
   "location": "Rio de Janeiro, Brazil",
   "capacity": 78838,
   "team": "Brazil National Team",
   "opened": 1950
 }, {
   "name": "Signal Iduna Park",
-  "image": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Signal_Iduna_Park_2022.jpg",
+  "image": "https://sportfive-prod-space-ovip-01.fra1.cdn.digitaloceanspaces.com/thumbnail/_default_upload_bucket/3924/image-thumb__3924__pictureText/Backgroundteaser3.90aca4c1.jpg",
   "location": "Dortmund, Germany",
   "capacity": 81365,
   "team": "Borussia Dortmund",
   "opened": 1974
 }, {
   "name": "Lusail Stadium",
-  "image": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Lusail_Stadium_2022.jpg",
+  "image": "https://populous.com/uploads/2022/10/GettyImages-1245700394-Do-not-use-after-31MAR2025-1200x675-c-center.jpg",
   "location": "Lusail, Qatar",
   "capacity": 88966,
   "team": "Qatar National Team",
@@ -185,55 +185,55 @@ module.exports = [{
 },{}],"football.json":[function(require,module,exports) {
 module.exports = [{
   "name": "Lamine Yamal",
-  "image": "https://upload.wikimedia.org/wikipedia/commons/2/25/Lamine_Yamal_2024.jpg",
+  "image": "https://cdn.britannica.com/16/277116-050-AE9CDB07/Lamine-Yamal-Scores-For-FC-Barcelona-In-LaLiga-2025-Clash-Against-Rayo-Vallecano-Madrid.jpg",
   "team": "FC Barcelona",
   "position": "Right Winger",
   "rating": 90
 }, {
   "name": "Kylian Mbappé",
-  "image": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Kylian_Mbapp%C3%A9_2022.jpg",
+  "image": "https://www.suarasurabaya.net/wp-content/uploads/2025/09/Mbappe-840x493.webp",
   "team": "Real Madrid",
   "position": "Forward",
   "rating": 94
 }, {
   "name": "Erling Haaland",
-  "image": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Erling_Haaland_2023.jpg",
+  "image": "https://media.gq-magazin.de/photos/5e2edbac0c5e3d00088fa8b4/16:9/w_2560%2Cc_limit/sport-haaland-koeln.jpg",
   "team": "Manchester City",
   "position": "Striker",
   "rating": 93
 }, {
   "name": "Lionel Messi",
-  "image": "https://upload.wikimedia.org/wikipedia/commons/8/89/Lionel_Messi_2022.jpg",
+  "image": "https://fifpro.org/media/1w0dfejt/lionel-messi_1.jpg?rxy=0.4619229519611197,0.19443102361750342&width=1600&height=1024&rnd=133770410615370000",
   "team": "Inter Miami",
   "position": "Forward",
   "rating": 95
 }, {
   "name": "Cristiano Ronaldo",
-  "image": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Cristiano_Ronaldo_2022.jpg",
+  "image": "https://assets.goal.com/images/v3/blt2aaca933046f8b00/Cristiano%20Ronaldo%20Portugal%202024%20(4).jpg?auto=webp&format=pjpg&width=3840&quality=60",
   "team": "Al-Nassr",
   "position": "Forward",
   "rating": 92
 }, {
   "name": "Jude Bellingham",
-  "image": "https://upload.wikimedia.org/wikipedia/commons/7/70/Jude_Bellingham_2023.jpg",
+  "image": "https://media0.faz.net/ppmedia/w1240/aktuell/sport/740674589/1.7542044/16x9/mit-der-unbekuemmertheit-des.jpg",
   "team": "Real Madrid",
   "position": "Midfielder",
   "rating": 91
 }, {
   "name": "Kevin De Bruyne",
-  "image": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Kevin_De_Bruyne_2021.jpg",
+  "image": "https://i.eurosport.com/2022/04/27/3362756-68735388-2560-1440.jpg",
   "team": "Manchester City",
   "position": "Midfielder",
   "rating": 92
 }, {
   "name": "Vinícius Júnior",
-  "image": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Vinicius_Junior_2022.jpg",
+  "image": "https://fifpro.org/media/fhxkcocj/imago1036849243h.jpg?rxy=0.44248162845529576,0.28445632196454546&width=1600&height=1024&rnd=133554938083930000",
   "team": "Real Madrid",
   "position": "Left Winger",
   "rating": 91
 }, {
   "name": "Pedri",
-  "image": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Pedri_2023.jpg",
+  "image": "https://www.diariopalentino.es/media/IMG/2025/2A70D518-C717-2D4F-DE35A4F6B8F11C90.JPG",
   "team": "FC Barcelona",
   "position": "Midfielder",
   "rating": 89
@@ -11514,7 +11514,7 @@ var parent = module.bundle.parent;
 if ((!parent || !parent.isParcelRequire) && typeof WebSocket !== 'undefined') {
   var hostname = "" || location.hostname;
   var protocol = location.protocol === 'https:' ? 'wss' : 'ws';
-  var ws = new WebSocket(protocol + '://' + hostname + ':' + "60375" + '/');
+  var ws = new WebSocket(protocol + '://' + hostname + ':' + "64559" + '/');
   ws.onmessage = function (event) {
     checkedAssets = {};
     assetsToAccept = [];
