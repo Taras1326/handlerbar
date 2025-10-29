@@ -5,11 +5,12 @@
   "browserslist": "> 0.5%, last 2 versions, not dead",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "npx parcel src/index.html",
+    "dev": "npx parcel src/index.html --public-url ./",
     "build": "parcel build src/index.html",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
   },
+  "homepage": "https://taras1326.github.io/handlerbar/",
   "keywords": [],
   "author": "",
   "license": "ISC",
